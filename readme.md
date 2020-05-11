@@ -5,5 +5,5 @@ Ces implémentations n'ont pas été optimisées. L'ajout de structures spatiale
 ## spectral.py
 Partitionnement spectral des données, en utilisant la matrice laplacienne du graphe et ses vecteurs propres.
 
-## hierarchical.py
+## hierarchical.py
 Partitionnement hiérarchique des données. En regroupant itérativement les clusters les plus proches jusqu'à n'avoir plus qu'un seul cluster.
